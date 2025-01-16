@@ -17,7 +17,7 @@ Stáhne z webu soubor (což může být webová stránka ve formátu HTML, ale i
 #### Práce s cookies
 
 -------------------------------- ------------------------------------------
-[-b, --cookie _soubor_]{.tt}     Na začátku operace načte všechny cookie z daného souboru a na žádost serveru je použije.</desc></i>
+[-b, --cookie _soubor_]{.tt}     Na začátku operace načte všechny cookie z daného souboru a na žádost serveru je použije.
 [-c, --cookie-jar _soubor_]{.tt} Na závěr operace uloží všechny cookie, které byly v tu chvíli známy, do daného souboru (pokud soubor už existuje, bude přepsán, nepřidává se do něj).
 -------------------------------- ------------------------------------------
 
