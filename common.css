@@ -25,13 +25,14 @@ nav {
     right: 16px;
     top: 16px;
     background-color: var(--menu-background);
-    padding-right: 0.5cm;
-    border: 1px dotted var(--border-color);
-    border-radius: 4px;
+    padding: 6px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
     max-height: 30%;
     overflow: scroll;
     opacity: 30%;
     font-size: small;
+    transition: opacity 0.25s;
 }
 nav:hover {
     opacity: 100%;
